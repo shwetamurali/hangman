@@ -1,4 +1,5 @@
 from random_word import RandomWords
+#test
 print("Welcome to Hangman!")
 print("Enter full word at any point if you know it.")
 totalWins=0
